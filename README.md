@@ -4,10 +4,11 @@
 
 Third-year software student at Chungbuk National University. I write up course notes, projects and debugging sessions on my blog [kibotos.dev](https://kibotos.dev/en/).
 
-What I care about most: handing repetitive work to AI agents and scripts, and turning stories I imagine into games. I keep my agent setup (Claude Code, Codex, Gemini) in one repo across Windows and macOS, and run my repos through per-step agent skills from issue to merge.
+What I care about most: handing repetitive work to AI agents and scripts, and turning stories I imagine into games. I keep my agent setup (Claude Code, Codex, Gemini) in one repo across Windows and macOS (the memory sync part is open source as [agent-commonplace](https://github.com/seren-wib/agent-commonplace)), and run my repos through per-step agent skills from issue to merge.
 
 **Building**
 
+- **[agent-commonplace](https://github.com/seren-wib/agent-commonplace)** <a href="https://github.com/seren-wib/agent-commonplace/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/agent-commonplace?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - One memory and one set of instructions for Claude Code, Codex and Antigravity on every machine, synced through agent hooks and a private git repo. Zero dependencies, CI on Linux/macOS/Windows.
 - **[Atlas Odyssey](https://github.com/seren-wib/atlas-odyssey)** <a href="https://github.com/seren-wib/atlas-odyssey/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/atlas-odyssey?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - Personal learning atlas: map what to learn, record what's done, see what's left. Solo entry for the CBNU CUVIC Vibe Coding Contest 2026.
 - **[kibotos.dev](https://github.com/seren-wib/vercel-blog)** <a href="https://github.com/seren-wib/vercel-blog/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/vercel-blog?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - Korean/English blog on Next.js 15, with a documented pipeline that turns lecture notes into posts.
 - **[Coffee Shop](https://github.com/seren-wib/coffee-shop)** <a href="https://github.com/seren-wib/coffee-shop/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/coffee-shop?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - Coffee bean shop for a Software Engineering term project. Team lead, React + Vite front-end on Django.
@@ -28,4 +29,4 @@ What I care about most: handing repetitive work to AI agents and scripts, and tu
 
 **Stack**
 
-Python · JavaScript · TypeScript · React · Next.js · Tailwind CSS · GitHub Actions · Vercel · Claude Code
+Python · JavaScript · TypeScript · Node.js · React · Next.js · Tailwind CSS · GitHub Actions · Vercel · Claude Code
