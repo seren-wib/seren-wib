@@ -4,7 +4,7 @@
 
 Third-year software student at Chungbuk National University. I write up course notes, projects and debugging sessions on my blog [kibotos.dev](https://kibotos.dev/en/).
 
-What I care about most: handing repetitive work to AI agents and scripts, and turning stories I imagine into games. I keep my agent setup (Claude Code, Codex, Gemini) in one repo across Windows and macOS (the memory sync part is open source as [agent-commonplace](https://github.com/seren-wib/agent-commonplace)), and run my repos through per-step agent skills from issue to merge. The games and tools I ship go out under [Stairno](https://stairno.com).
+What I care about most: handing repetitive work to AI agents and scripts, and turning stories I imagine into games. I keep my agent setup (Claude Code, Codex, Gemini) in one repo across Windows and macOS (the memory sync part is open source as [agent-commonplace](https://github.com/seren-wib/agent-commonplace)), and run my repos through per-step agent skills from issue to merge. The games and tools I ship go out under [Stairno](https://stairno.com). Open to remote part-time work: AI agent setup, automation scripts, CI and dev environments. Reach me on LinkedIn or by email.
 
 **Building**
 
