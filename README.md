@@ -4,7 +4,7 @@
 
 Third-year software student at Chungbuk National University. I write up course notes, projects and debugging sessions on my blog [kibotos.dev](https://kibotos.dev/en/).
 
-What I care about most: handing repetitive work to AI agents and scripts, and turning stories I imagine into games. I keep my agent setup (Claude Code, Codex, Gemini) in one repo across Windows and macOS (the memory sync part is open source as [agent-commonplace](https://github.com/seren-wib/agent-commonplace)), and run my repos through per-step agent skills from issue to merge.
+What I care about most: handing repetitive work to AI agents and scripts, and turning stories I imagine into games. I keep my agent setup (Claude Code, Codex, Gemini) in one repo across Windows and macOS (the memory sync part is open source as [agent-commonplace](https://github.com/seren-wib/agent-commonplace)), and run my repos through per-step agent skills from issue to merge. The games and tools I ship go out under [Stairno](https://stairno.com).
 
 **Building**
 
@@ -15,6 +15,7 @@ What I care about most: handing repetitive work to AI agents and scripts, and tu
 
 **Shipped**
 
+- **[Stairno](https://stairno.com)** <a href="https://github.com/seren-wib/stairno.com/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/stairno.com?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - Brand hub at stairno.com: a halftone-dot canvas hero with a globe intro, full-page scrolling, Korean/English and dark mode. Astro on Cloudflare Pages, 123 tests gating every deploy.
 - **[my-status](https://github.com/seren-wib/my-status-public)** <a href="https://github.com/seren-wib/my-status-public/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/my-status-public?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - RPG-style status board: 348 roadmaps across 9 domains, learning logs regenerate stats. Python stdlib tooling + vanilla JS front-end.
 - **[agent-commonplace](https://github.com/seren-wib/agent-commonplace)** <a href="https://github.com/seren-wib/agent-commonplace/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/agent-commonplace?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - One memory and one set of instructions for Claude Code, Codex and Antigravity on every machine, synced through agent hooks and a private git repo. Zero dependencies, CI on Linux/macOS/Windows.
 - **[SCPC 2026 AI Agent Harness](https://github.com/seren-wib/scpc-2026-agent-harness)** <a href="https://github.com/seren-wib/scpc-2026-agent-harness/stargazers"><img src="https://img.shields.io/github/stars/seren-wib/scpc-2026-agent-harness?style=flat&label=stars&color=000000" alt="stars" align="absmiddle"></a> - Rule-based harness for an on-device agent benchmark, no LLM allowed. 0.8408 public score (baseline 0.5206), one 984-line deterministic file.
@@ -29,4 +30,4 @@ What I care about most: handing repetitive work to AI agents and scripts, and tu
 
 **Stack**
 
-Python · JavaScript · TypeScript · Node.js · React · Next.js · Tailwind CSS · GitHub Actions · Vercel · Claude Code
+Python · JavaScript · TypeScript · Node.js · React · Next.js · Astro · Tailwind CSS · GitHub Actions · Vercel · Cloudflare Pages · Claude Code
