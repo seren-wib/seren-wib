@@ -32,6 +32,9 @@ What I care about most: handing repetitive work to AI agents and scripts, and tu
   - [#123](https://github.com/owner/repo/pull/123) - what it changed
 -->
 
+- [![nestjs/nest](https://img.shields.io/github/stars/nestjs/nest?style=flat&logo=github&logoColor=white&label=nestjs%2Fnest&color=000000)](https://github.com/nestjs/nest)
+  - [#18264](https://github.com/nestjs/nest/pull/18264) - Map non form-data multipart requests to 415 in the multer interceptors
+
 **Stack**
 
 Python · JavaScript · TypeScript · Node.js · React · Next.js · Astro · Hono · PostgreSQL · Drizzle · Tailwind CSS · GitHub Actions · Vercel · Cloudflare Workers · Cloudflare Pages · Claude Code
