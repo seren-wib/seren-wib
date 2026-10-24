@@ -27,7 +27,10 @@ What I care about most: handing repetitive work to AI agents and scripts, and tu
 
 **Contributing to**
 
-<!-- One line per merged upstream PR: - [repo](PR link) [stars badge] - what it changed -->
+<!-- Merged upstream PRs only, grouped by repo:
+- [![owner/repo](https://img.shields.io/github/stars/owner/repo?style=flat&logo=github&logoColor=white&label=owner%2Frepo&color=000000)](https://github.com/owner/repo)
+  - [#123](https://github.com/owner/repo/pull/123) - what it changed
+-->
 
 **Stack**
 
