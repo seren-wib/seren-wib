@@ -48,6 +48,6 @@ I also take remote part-time work: AI agent setup, automation scripts, CI and de
 - [![EbookFoundation/free-programming-books](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=white&label=EbookFoundation%2Ffree-programming-books&color=000000)](https://github.com/EbookFoundation/free-programming-books)
   - [#13566](https://github.com/EbookFoundation/free-programming-books/pull/13566) - Remove a hijacked TypeScript handbook link from the Russian list
 
-**Stack**
+**Skills**
 
-Python · JavaScript · TypeScript · Node.js · React · Next.js · Astro · Hono · PostgreSQL · Drizzle · Tailwind CSS · GitHub Actions · Vercel · Cloudflare Workers · Cloudflare Pages · Claude Code
+AI Agents · Back-End Web Development · Cloud Computing · DevOps
