@@ -2,17 +2,13 @@
 
 [![Blog](https://img.shields.io/badge/Blog-kibotos.dev-000000?style=flat)](https://kibotos.dev/en/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-seren--wib-000000?style=flat)](https://www.linkedin.com/in/seren-wib/) [![Facebook](https://img.shields.io/badge/Facebook-seren--wib-000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61595087366681) [![Email](https://img.shields.io/badge/Email-smeteor0213%40gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:smeteor0213@gmail.com)
 
-I'm a third-year Software major at Chungbuk National University in Korea. I like taking the repetitive parts of people's work and handing them to code and AI agents.
+I'm a third-year Software major at Chungbuk National University in Korea. Lately I'm into running services on infrastructure I set up myself, and building workflows where AI agents take over repetitive work.
 
-I built [Stairno Account](https://github.com/seren-wib/account.stairno.com), the account center and payments API that handles sign-in and checkout for every Stairno site, solo from planning documents to production: an OIDC provider, Toss Payments and PayPal checkout with card-on-file subscriptions, 115 requirements written before the code, 775 tests, and a 10-scenario payment rehearsal on production.
+What I've built and contributed to is in the project list, and how I built it is on [kibotos.dev](https://kibotos.dev/en/), in Korean and English.
 
-On team projects I usually end up as team lead. I write the API spec, DB schema and collaboration rules before anyone starts coding.
+I'm a student ambassador for my university until September 2027. From July 2027 I'm open to backend and AI internships, and to new-grad roles after I graduate in February 2028.
 
-I post course notes and project write-ups at [kibotos.dev](https://kibotos.dev/en/), in Korean and English.
-
-I'm a student ambassador for my university until September 2027. From October 2027 I'm open to backend and AI internships, and to new-grad roles after I graduate in February 2028.
-
-I also take remote part-time work: AI agent setup, automation scripts, CI and dev environments. Reach me on LinkedIn or by email.
+I also take remote part-time work: AI agent setup, automation scripts and dev environments. Reach me on LinkedIn or by email.
 
 **Building**
 
