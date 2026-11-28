@@ -4,9 +4,9 @@
 
 I'm a third-year Software major at Chungbuk National University in Korea. I like taking the repetitive parts of people's work and handing them to code and AI agents.
 
-My main project is [Stairno Account](https://github.com/seren-wib/account.stairno.com), the account center and payments API behind every Stairno site. I built it solo, from planning documents to production: an OIDC provider, Toss Payments and PayPal checkout with card-on-file subscriptions, 115 requirements written before the code, 775 tests, and a 10-scenario payment rehearsal on production.
+I built [Stairno Account](https://github.com/seren-wib/account.stairno.com), the account center and payments API that handles sign-in and checkout for every Stairno site, solo from planning documents to production: an OIDC provider, Toss Payments and PayPal checkout with card-on-file subscriptions, 115 requirements written before the code, 775 tests, and a 10-scenario payment rehearsal on production.
 
-On team projects I usually end up as team lead. I write the API spec, DB schema and collaboration rules before anyone starts coding, and set up CI so nothing merges until the tests pass.
+On team projects I usually end up as team lead. I write the API spec, DB schema and collaboration rules before anyone starts coding.
 
 I post course notes and project write-ups at [kibotos.dev](https://kibotos.dev/en/), in Korean and English.
 
